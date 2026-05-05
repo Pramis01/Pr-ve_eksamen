@@ -24,7 +24,7 @@ The purpose of using Apache is to:
 sudo apt update
 sudo apt install apache2 -y
 ```
-[Install Apache2](Apache-Serve!r_Bilder_Dokumentasjon/Apache-Server-1.png)
+![Install Apache2](Apache-Serve!r_Bilder_Dokumentasjon/Apache-Server-1.png)
 ---
 
 ### Start and Enable Apache
@@ -44,7 +44,7 @@ systemctl status apache2
 
 The service should show as `active (running)`.
 
-[Apache2 Status](Apache-Server_Bilder_Dokumentasjon/Apache-Server-Start&Enable.png)
+![Apache2 Status](Apache-Server_Bilder_Dokumentasjon/Apache-Server-Start&Enable.png)
 
 ---
 
@@ -65,9 +65,9 @@ Edit the default page:
 ```bash
 sudo nano /var/www/html/index.html
 ```
-[command for default directory](Apache-Server_Bilder_Dokumentasjon/Apache-Server-4.png)
-[edit the default page](Apache-Server_Bilder_Dokumentasjon/Apache-Server-5.png)
-[My website](Apache-Server_Bilder_Dokumentasjon/Apache-Server-mywebsite.png)
+![command for default directory](Apache-Server_Bilder_Dokumentasjon/Apache-Server-4.png)
+![edit the default page](Apache-Server_Bilder_Dokumentasjon/Apache-Server-5.png)
+![My website](Apache-Server_Bilder_Dokumentasjon/Apache-Server-mywebsite.png)
 
  
 
