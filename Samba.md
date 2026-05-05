@@ -71,13 +71,15 @@ sudo nano smb.conf
 ```
 copy the code from the image
 ![smb.conf](Samba-FTS_Bilder_Dokumentasjon/Samba-FTS-7.png)
-ctrl+0 Enter ctrl+x
+
+To save: ctrl+0 Enter ctrl+x
 ---
 Create another file 
 ```bash
 sudo nano shares.conf
 ```
-[smb.conf](Samba-FTS_Bilder_Dokumentasjon/Samba-FTS-8.png)
+![smb.conf](Samba-FTS_Bilder_Dokumentasjon/Samba-FTS-8.png)
+
 copy the code from the image
 ![smb.conf](Samba-FTS_Bilder_Dokumentasjon/Samba-FTS-9.png)
 ---
