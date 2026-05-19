@@ -32,12 +32,12 @@ Guest OS:
 
 ## Documentation Files
 
-- apache.md [Apache.md](/Apache.md)
-- samba.md  [Samba.md](/Samba.md)
-- jellyfin.md [Apache.md](/)
-- firewall.md  [Apache.md](/Brannmur.md)
-- ssh.md  [Apache.md](/OpenSSH.md)
-- security.md  [Apache.md](/)
+- [Apache.md](/Apache.md)
+- [Samba.md](/Samba.md)
+- [Jellyfin.md](/)
+- [Firewall.md](/Brannmur.md)
+- [OpenSSH.md](/OpenSSH.md)
+- [Security.md](/)
 
 ---
 
