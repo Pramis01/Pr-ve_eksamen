@@ -58,7 +58,8 @@ This project uses UFW firewall to control incoming traffic and improve server se
 SSH is used for secure remote administration of the server.
 
 More detailed security information can be found in:
-- security.md
+- [Security.md](/)
+
 
 ---
 
