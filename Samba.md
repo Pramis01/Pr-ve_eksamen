@@ -190,6 +190,7 @@ or
 \\hostname\share_name.
 ```
 Press Enter.
+
 If prompted, enter the specific Samba credentials (username and password) you created for the server.
 ---
 
