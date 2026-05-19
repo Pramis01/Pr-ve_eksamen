@@ -175,23 +175,23 @@ Login with:
 
 ## Connecting from Windows Pc
 
-Press Win + E to open File Explorer.
+1. Press Win + E to open File Explorer.
 
-Click directly into the address/path bar at the top of the window.
+2. Click directly into the address/path bar at the top of the window.
 
-Type the network path using backslashes:
+3. Type the network path using backslashes:
 
-```text
-\\server_ip_address\share_name (e.g., \\192.168.1.50\media) 
-```
-or 
+    ```text
+    \\server_ip_address\share_name (e.g., \\192.168.1.50\media) 
+    ```
+    or 
 
-```text
-\\hostname\share_name.
-```
-Press Enter.
+    ```text
+    \\hostname\share_name.
+    ```
+4. Press Enter.
 
-If prompted, enter the specific Samba credentials (username and password) you created for the server.
+5. If prompted, enter the specific Samba credentials (username and password) you created for the server.
 
 ---
 
