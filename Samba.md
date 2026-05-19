@@ -192,6 +192,7 @@ or
 Press Enter.
 
 If prompted, enter the specific Samba credentials (username and password) you created for the server.
+
 ---
 
 ## How It Works
