@@ -173,6 +173,26 @@ Login with:
 ![Folder2](Samba-FTS_Bilder_Dokumentasjon/Samba-FTS-21.png)
 ---
 
+## Connecting from Windows Pc
+
+Press Win + E to open File Explorer.
+
+Click directly into the address/path bar at the top of the window.
+
+Type the network path using backslashes:
+
+```text
+\\server_ip_address\share_name (e.g., \\192.168.1.50\media) 
+```
+or 
+
+```text
+\\hostname\share_name.
+```
+Press Enter.
+If prompted, enter the specific Samba credentials (username and password) you created for the server.
+---
+
 ## How It Works
 
 * Client connects to server using SMB protocol
