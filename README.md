@@ -34,10 +34,10 @@ Guest OS:
 
 - [Apache.md](/Apache.md)
 - [Samba.md](/Samba.md)
-- [Jellyfin.md](/)
+- [Jellyfin.md](/Jellyfin.md)
 - [Firewall.md](/Brannmur.md)
 - [OpenSSH.md](/OpenSSH.md)
-- [Security.md](/)
+- [Security.md](/Sikkerhet.md)
 
 ---
 
@@ -58,7 +58,7 @@ This project uses UFW firewall to control incoming traffic and improve server se
 SSH is used for secure remote administration of the server.
 
 More detailed security information can be found in:
-- [Security.md](/)
+- [Security.md](/Sikkerhet.md)
 
 
 ---
