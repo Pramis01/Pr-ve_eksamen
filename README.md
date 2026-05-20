@@ -39,7 +39,7 @@ The Ubuntu Server is running inside a UTM virtual machine using bridged networki
 - Apache
 - SSH
 
-![Network Diagram](Network_Diagram/Ubuntu-Server-Network-Architetcture.svg)
+![Network Diagram](Network_Diagram/Ubuntu-Server-Network-Architetcture.drawio.svg)
 
 ---
 
