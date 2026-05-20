@@ -29,6 +29,19 @@ Guest OS:
 - Ubuntu Server 24 LTS
 
 ---
+# Network Architecture
+
+The following diagram shows the network structure and services used in this project.
+
+The Ubuntu Server is running inside a UTM virtual machine using bridged networking, allowing other devices on the local network to access services such as:
+- Jellyfin
+- Samba
+- Apache
+- SSH
+
+![Network Diagram](Network_Diagram/Ubuntu-Server-Network-Architetcture.png)
+
+---
 
 ## Documentation Files
 
