@@ -80,7 +80,7 @@ ssh-keygen -t ed25519
 
 Press Enter to use default file location.
 
-![Generate Ssh key ](Open-Ssh_Bilder_Dokumentasjon/Open-SSh-1.png)
+![Generate Ssh key ](Open-Ssh_Bilder_Dokumentasjon/Open-SSh-2.png)
 ---
 
 ### Copy Public Key to Server
@@ -88,7 +88,7 @@ Press Enter to use default file location.
 ```bash
 ssh-copy-id username@server-ip
 ```
-![Copy key to Server](Open-Ssh_Bilder_Dokumentasjon/Open-SSh-2.png)
+![Copy key to Server](Open-Ssh_Bilder_Dokumentasjon/Open-SSh-1.png)
 ---
 
 ### Test Key-Based Login
